@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="my_app_title">MoviesApp</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="favourite_movies">My Favourite Movies</string>
+    <string name="release_date">Release Date</string>
+    <string name="vote_average">Rate</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="err_connection">Check Internet Connection!</string>
+    <string name="backdrop_tv">Backdrop Image</string>
+    <string name="poster_tv">Poster Image</string>
+    <string name="overview">Overview</string>
+    <string name="poweredMovieDB">Powered by Movie DB</string>
+    <string name="video_play">Play Video</string>
+    <string name="more_video">More Videos</string>
+    <string name="reviews_title">Reviews</string>
+    <string name="trailer_title">Trailer</string>
+    <string name="trailer_video">Movies\'s Trailer</string>
+    <string name="writers_name">Writer\'s Name</string>
+    <string name="reviews_content">R_Content</string>
+</resources>

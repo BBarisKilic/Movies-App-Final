@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuPopular"
+            android:icon="@drawable/round_whatshot_24"
+            android:title="@string/popular_movies" />
+        <item
+            android:id="@+id/menuTopRated"
+            android:icon="@drawable/round_star_border_24"
+            android:title="@string/top_rated_movies" />
+        <item
+            android:id="@+id/menuFavourite"
+            android:icon="@drawable/twotone_favorite_24"
+            android:title="@string/favourite_movies" />
+    </group>
+
+
+</menu>
