@@ -5,9 +5,10 @@ Movies App using TMDB API that allows users to view top-rated and most popular m
 ## Screenshots from the Latest Version of The Application
 
 ### _Sidebar Navigation_
-![ScreenShot](/images/Sidebar_Navigation_Drawer.jpg)
+![ScreenShot](/images/Sidebar_Navigation_Drawer.jpg) <!-- .element height="50%" width="50%" -->
+
 ### _Movies' Details Screen_
-![ScreenShot](/images/Movies_Details.jpg)
+![ScreenShot](/images/Movies_Details.jpg) <!-- .element height="50%" width="50%" -->
 
 ## Project Summary
 
